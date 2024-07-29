@@ -8,5 +8,9 @@ Data Science, Postgrad [UKZN]
 
 ### Work Experience
 
-#### Why
+
+
+
+
+###### Why?
 Just a site to put everything together....projects, hobbies, blog...ales 
