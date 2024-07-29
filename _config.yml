@@ -1,6 +1,7 @@
 title: Makhate Makhate
-logo: /assets/img/logo.png
+#logo: /assets/img/logo.png
 description: ROOT | me
+url: https://kgatman.github.com
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
