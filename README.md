@@ -1,5 +1,3 @@
-# Data Scientist
-
 ### Education
 
 Computer Science, BSc [NUL]
