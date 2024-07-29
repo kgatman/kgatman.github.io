@@ -6,9 +6,7 @@ Computer Science, BSc [NUL]
 
 Data Science, Postgrad [UKZN]
 
-### Projects
-  - Project 1
-  - Project 2
+### {Data Science Projects](https://kgatman.github.io/datascience/)
 
 ### Work Experience
 
