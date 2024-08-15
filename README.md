@@ -1,8 +1,8 @@
 ### Education
 
-Computer Science, BSc [NUL]
+**BSc - Computer Science & Physics** [NUL]
 
-Data Science, Postgrad [UKZN]
+**PGDip - Data Science**, [UKZN]
 
 ### 👨🏾‍🔬 [Data Science Projects](https://kgatman.github.io/datascience/)
 
