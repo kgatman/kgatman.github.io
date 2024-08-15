@@ -12,9 +12,9 @@ Data Science, Postgrad [UKZN]
     - Country Coordinator - LIFTII Project (2 years)
     - HRH Informatics Lead - HRAA (USAID Funded) (5 years)
 
-### Detailed Resume
-    > password protected. Only for prospective employers
-    - [Resume](https://tr.ee/7GHq57WMjX) 
+### [Detailed Resume](https://tr.ee/7GHq57WMjX)
+    
+> password protected. Only for prospective employers
 
 <br>
 <br>
