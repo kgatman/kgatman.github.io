@@ -16,4 +16,4 @@
     
 > _Password protected. Only for prospective employers_
 
-### ✍🏾 **_I also feel like I got things to say [here](https://medium.com/@makhatemg)_**
+### ✍🏾 **_I also feel like I got dope things to say [here](https://medium.com/@makhatemg)_**
