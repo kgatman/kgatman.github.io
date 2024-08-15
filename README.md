@@ -14,15 +14,6 @@
 
 ### 🗎 [Detailed Resume](https://tr.ee/7GHq57WMjX)
     
-> password protected. Only for prospective employers
+> _Password protected. Only for prospective employers_
 
-### ✍🏾 [I'm also planning blog here](https://medium.com/@makhatemg)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-###### Why?
-Just a site to put everything together....projects, hobbies, blog...ales 
+### ✍🏾 _I'm also planning to blog [here](https://medium.com/@makhatemg)_
