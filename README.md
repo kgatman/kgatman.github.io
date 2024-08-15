@@ -1,8 +1,7 @@
 ### 👨🏾‍🎓 Education
 
-        **BSc - Computer Science & Physics** [NUL]
-
-        **PGDip - Data Science**, [UKZN]
+##### BSc - Computer Science & Physics [NUL]
+##### PGDip - Data Science, [UKZN]
 
 ### 🧪 [Data Science Projects](https://kgatman.github.io/datascience/)
 
