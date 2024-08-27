@@ -7,7 +7,7 @@
 
 ### 👷🏾 Work Experience
 
-    - Health Informatics and Data Management - ICAP (7 yrs...and counting)
+    - Health Informatics Tech Lead - ICAP (7 yrs...and counting)
     - Country Coordinator - LIFTII Project (2 years)
     - HRH Informatics Lead - HRAA (USAID Funded) (5 years)
 
