@@ -18,7 +18,13 @@
 > _Password protected. Only for prospective employers_
 
 ### ✍🏾 **_I also feel like I got dope things to say [here](https://medium.com/@makhatemg)_**
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ###### I also play 🎸
 ###### On the woo woo spooky side of life I'm Catholic🪄🧙🏾‍♂️🧹
