@@ -7,7 +7,8 @@
 
 ### 👷🏾 Work Experience
 
-    - Health Informatics Tech Lead - ICAP (7 yrs...and counting)
+    - eRegister Tech Lead - HISP-SA (just started in '24)
+    - Health Informatics Tech Lead - ICAP (7 yrs)
     - Country Coordinator - LIFTII Project (2 years)
     - HRH Informatics Lead - HRAA (USAID Funded) (5 years)
 
@@ -28,7 +29,26 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ###### I play 🎸<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
