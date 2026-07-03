@@ -444,6 +444,18 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 }
 .project-body h3 { font-size: 1.25rem; margin: 0; }
 .project-body p { color: var(--text-dim); margin: 0; font-size: 0.95rem; }
+/* Emphasise the HL7 FHIR standard inline in the copy */
+.fhir-standard {
+  font-weight: 700;
+  color: var(--text);
+  white-space: nowrap;
+}
+/* FHIR logo used as the project thumbnail icon */
+.thumb-logo {
+  width: auto;
+  height: clamp(2.2rem, 5vw, 3.4rem);
+  object-fit: contain;
+}
 .project-links { display: flex; gap: 1.2rem; margin-top: auto; padding-top: 0.6rem; }
 .project-links a { color: var(--accent); font-weight: 600; font-size: 0.9rem; }
 .project-links a:hover { text-decoration: underline; }
