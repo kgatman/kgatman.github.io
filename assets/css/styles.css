@@ -501,6 +501,32 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   content: "▹"; position: absolute; left: 0; color: var(--accent);
 }
 
+/* Experience: timeline on the left, dimmed portrait on the right */
+.experience-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: clamp(2rem, 5vw, 4rem);
+}
+.experience-layout .timeline { flex: 1 1 auto; }
+.experience-pic {
+  flex: 0 0 auto;
+  width: clamp(200px, 26vw, 320px);
+  align-self: stretch;
+  object-fit: cover;
+  border-radius: 14px;
+  /* Keep it quiet so it doesn't compete with the job history */
+  opacity: 0.4;
+  filter: grayscale(35%) brightness(0.7) contrast(0.95);
+  transition: opacity 0.35s ease, filter 0.35s ease;
+}
+.experience-pic:hover {
+  opacity: 0.75;
+  filter: grayscale(0%) brightness(0.9) contrast(1);
+}
+@media (max-width: 720px) {
+  .experience-pic { display: none; }
+}
+
 /* ============================================================
    CONTACT
    ============================================================ */
